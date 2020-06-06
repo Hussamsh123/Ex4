@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899176771102",
+    "firebase_url": "https://todoboom-9b806.firebaseio.com",
+    "project_id": "todoboom-9b806",
+    "storage_bucket": "todoboom-9b806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899176771102:android:0768577b7dfbdeca07480f",
+        "android_client_info": {
+          "package_name": "com.hussam.TodoBoomApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899176771102-9tm5dho05onr7ocpg49jivucsad8fav3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTKbcB8Mz1ttZKAru2xjlPFmR0ad3Fxrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899176771102-9tm5dho05onr7ocpg49jivucsad8fav3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
